@@ -10,10 +10,13 @@
         android:label="@string/app_name"
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
-        android:theme="@style/Theme.TicTacToe"
+        android:theme="@style/Base.Theme.Texter"
         tools:targetApi="31">
         <activity
-            android:name=".MainActivity"
+            android:name=".updatePassword"
+            android:exported="false" />
+        <activity
+            android:name=".splashScreen"
             android:exported="true">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
@@ -21,6 +24,31 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
+        <activity
+            android:name=".Sign_up_user"
+            android:exported="false"
+            android:theme="@style/sign_up"/>
+        <activity
+            android:name=".profile"
+            android:exported="false"
+            android:theme="@style/sign_up"/>
+        <activity
+            android:name=".MainActivity2"
+            android:exported="false" />
+        <activity
+            android:name=".login"
+            android:exported="false"
+            android:theme="@style/sign_up"/>
+        <activity
+            android:name=".forgot_password"
+            android:exported="false" />
+        <activity
+            android:name=".deleteProfile"
+            android:exported="false"
+            android:theme="@style/sign_up"/>
+        <activity
+            android:name=".MainActivity"
+            android:exported="false"/>
     </application>
 
 </manifest>

@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:orientation="vertical"
+        android:padding="10dp"
+        android:layout_height="match_parent">
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/title"
+            android:textSize="25dp"
+            android:text="Terms and Conditions"
+            android:textAlignment="textStart"
+            android:layout_marginBottom="20dp"
+            android:textColor="@color/golden"/>
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginRight="10dp"
+            android:layout_marginBottom="6dp"
+            android:textSize="18sp"
+            android:textStyle="bold"
+            android:textColor="@color/white"
+            android:text="1. Introduction and Acceptance of Terms:"/>
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="20dp"
+            android:layout_marginRight="10dp"
+            android:textSize="15sp"
+            android:layout_marginBottom="6dp"
+            android:textStyle="bold"
+            android:textColor="@color/white"
+            android:text="By accessing or using the [App Name] mobile application, you agree to abide by these terms and conditions. Your continued use of the app constitutes your acceptance of any revisions made to these terms, which shall be effective immediately upon posting."/>
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginRight="10dp"
+            android:layout_marginBottom="6dp"
+            android:textSize="18sp"
+            android:textStyle="bold"
+            android:textColor="@color/white"
+            android:text="2. User Conduct and Responsibilities:"/>
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="20dp"
+            android:layout_marginRight="10dp"
+            android:textSize="15sp"
+            android:layout_marginBottom="6dp"
+            android:textStyle="bold"
+            android:textColor="@color/white"
+            android:text="You agree to use the app in compliance with all applicable laws, regulations, and ethical standards. Prohibited activities include, but are not limited to, engaging in illegal behavior, harassing or abusing others, or violating the app's security measures."/>
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginRight="10dp"
+            android:layout_marginBottom="6dp"
+            android:textSize="18sp"
+            android:textStyle="bold"
+            android:textColor="@color/white"
+            android:text="3. Data Privacy and Collection:"/>
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="20dp"
+            android:layout_marginRight="10dp"
+            android:textSize="15sp"
+            android:layout_marginBottom="6dp"
+            android:textStyle="bold"
+            android:textColor="@color/white"
+            android:text="Your privacy is essential to us. We collect and process your personal information in accordance with our Privacy Policy. By using the app, you consent to the collection, storage, and use of your data as outlined in the Privacy Policy."
+            />
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginRight="10dp"
+            android:layout_marginBottom="6dp"
+            android:textSize="18sp"
+            android:textStyle="bold"
+            android:textColor="@color/white"
+            android:text="4. Intellectual Property Rights:"/>
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="20dp"
+            android:layout_marginRight="10dp"
+            android:textSize="15sp"
+            android:layout_marginBottom="6dp"
+            android:textStyle="bold"
+            android:textColor="@color/white"
+            android:text="The content, trademarks, and materials within the app are the property of [Company Name] and are protected by intellectual property laws. Unauthorized use, reproduction, or distribution of these materials is prohibited."
+            />
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginRight="10dp"
+            android:layout_marginBottom="6dp"
+            android:textSize="18sp"
+            android:textStyle="bold"
+            android:textColor="@color/white"
+            android:text="5. Limitation of Liability and Disclaimer:"/>
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="20dp"
+            android:layout_marginRight="10dp"
+            android:textSize="15sp"
+            android:layout_marginBottom="6dp"
+            android:textStyle="bold"
+            android:textColor="@color/white"
+            android:text="The app is provided on an /as is\ basis, and we make no warranties, expressed or implied, regarding its accuracy, reliability, or suitability for a specific purpose. We shall not be liable for any damages resulting from the use or inability to use the app."
+            />
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginRight="10dp"
+            android:layout_marginBottom="6dp"
+            android:textSize="18sp"
+            android:textStyle="bold"
+            android:textColor="@color/white"
+            android:text="6. Termination and Modifications:"/>
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="20dp"
+            android:layout_marginRight="10dp"
+            android:textSize="15sp"
+            android:layout_marginBottom="6dp"
+            android:textStyle="bold"
+            android:textColor="@color/white"
+            android:text="We reserve the right to terminate or suspend access to the app for any reason without prior notice. Additionally, we may modify or update these terms at our discretion, with notification to users about significant changes."
+            />
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginRight="10dp"
+            android:layout_marginBottom="6dp"
+            android:textSize="18sp"
+            android:textStyle="bold"
+            android:textColor="@color/white"
+            android:text="7. Governing Law and Jurisdiction:"/>
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="20dp"
+            android:layout_marginRight="10dp"
+            android:textSize="15sp"
+            android:layout_marginBottom="6dp"
+            android:textStyle="bold"
+            android:textColor="@color/white"
+            android:text="These terms shall be governed by and construed in accordance with the laws of [Jurisdiction]. Any dispute arising from these terms shall be resolved exclusively in the courts of [Jurisdiction]."
+            />
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginRight="10dp"
+            android:layout_marginBottom="6dp"
+            android:textSize="18sp"
+            android:textStyle="bold"
+            android:textColor="@color/white"
+            android:text="8. Contact Information and Support:"/>
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="20dp"
+            android:layout_marginRight="10dp"
+            android:textSize="15sp"
+            android:layout_marginBottom="6dp"
+            android:textStyle="bold"
+            android:textColor="@color/white"
+            android:text="For inquiries, questions, or assistance regarding these terms or the app, please contact us at [Contact Information]."
+            />
+    </LinearLayout>
+</ScrollView>

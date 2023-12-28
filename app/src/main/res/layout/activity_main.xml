@@ -1,18 +1,58 @@
 <?xml version="1.0" encoding="utf-8"?>
-<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+<ScrollView
+    xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:app="http://schemas.android.com/apk/res-auto"
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
-    android:layout_height="match_parent"
+    android:layout_height="wrap_content"
     tools:context=".MainActivity">
-
-    <TextView
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:text="Hello World!"
-        app:layout_constraintBottom_toBottomOf="parent"
-        app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toTopOf="parent" />
-
-</androidx.constraintlayout.widget.ConstraintLayout>
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        android:padding="20dp">
+        <ImageView
+            android:layout_width="73dp"
+            android:layout_height="70dp"
+            app:srcCompat="@drawable/message_svgrepo_com"
+            android:paddingBottom="20dp"/>
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="@color/white">
+            <ImageView
+                android:layout_width="348dp"
+                android:layout_height="wrap_content"
+                android:backgroundTint="@color/white"
+                android:paddingBottom="20dp"
+                app:srcCompat="@drawable/overlay_for_image1" />
+        </LinearLayout>
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textStyle="bold"
+            android:textSize="60sp"
+            android:paddingTop="20dp"
+            android:fontFamily="@font/pilatrextended"
+            android:textColor="@color/white"
+            android:text="Manage your Task With"
+            />
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textStyle="bold"
+            android:textSize="60sp"
+            android:textColor="@color/golden"
+            android:text="DayTask"
+            android:fontFamily="@font/pilatrextended"
+            android:paddingBottom="30dp"
+            />
+        <androidx.appcompat.widget.AppCompatButton
+            android:layout_width="match_parent"
+            android:layout_height="50dp"
+            android:id="@+id/variable"
+            android:textColor="@color/black"
+            android:background="@drawable/button_style_first"
+            android:text="Let's Start"/>
+    </LinearLayout>
+</ScrollView>
