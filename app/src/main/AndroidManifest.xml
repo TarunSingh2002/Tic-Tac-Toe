@@ -15,15 +15,6 @@
         android:theme="@style/Base.Theme.Texter"
         tools:targetApi="31">
         <activity
-            android:name=".ForthActivity"
-            android:exported="false" />
-        <activity
-            android:name=".ThirdActivity"
-            android:exported="false" />
-        <activity
-            android:name=".SecondActivity"
-            android:exported="false" />
-        <activity
             android:name=".MainActivity3"
             android:exported="false" />
         <activity

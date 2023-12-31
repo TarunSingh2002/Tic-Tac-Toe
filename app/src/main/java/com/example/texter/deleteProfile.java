@@ -178,7 +178,7 @@ public class deleteProfile extends AppCompatActivity {
                 if(task.isSuccessful())
                 {
                     authProfile.signOut();
-                    Intent intent = new Intent(deleteProfile.this, SecondActivity.class);
+                    Intent intent = new Intent(deleteProfile.this, login.class);
                     intent.setFlags(Intent.FLAG_ACTIVITY_CLEAR_TASK | Intent.FLAG_ACTIVITY_NEW_TASK);
                     startActivity(intent);
                     finish();

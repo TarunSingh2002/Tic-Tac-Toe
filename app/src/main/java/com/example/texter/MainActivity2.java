@@ -22,8 +22,8 @@ import com.google.firebase.database.ValueEventListener;
 
 public class MainActivity2 extends AppCompatActivity {
 
-    private ImageView imageViewHome,circularImageView;
-    private TextView textViewHome , textViewName;
+    private ImageView circularImageView;
+    private TextView  textViewName;
     private AppCompatButton profile;
     private FirebaseAuth firebaseAuth;
     private FirebaseUser firebaseUser;
@@ -32,11 +32,7 @@ public class MainActivity2 extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main2);
-        imageViewHome=findViewById(R.id.imageViewHome);
-        textViewHome=findViewById(R.id.textViewHome);
         textViewName=findViewById(R.id.textViewName);
-        textViewHome.setTextColor(getResources().getColor(R.color.golden));
-        imageViewHome.setImageResource(R.drawable.home_focused);
         aLoadingDialog = new ALoadingDialog(MainActivity2.this);
         circularImageView=findViewById(R.id.imageViewAvatar);
         final AppCompatButton buttonStartGame=findViewById(R.id.buttonEnter);
