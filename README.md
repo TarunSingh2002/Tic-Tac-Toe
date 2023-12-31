@@ -1,54 +1,45 @@
-# Aahar - Food Donation App Version 1.0.0
+# Tic Tac Toe Multiplayer
 
-Aahar is a food donation app built on Java and powered by Firebase. Its primary objective is to facilitate the process of food donation, connecting food donators with receivers in a seamless manner. With Aahar, you can contribute to reducing food waste and helping those in need by donating surplus food items.
+## Overview
 
-## Registration
+Welcome to the Tic Tac Toe Multiplayer game built for Android devices using Java, XML, Firebase, and Android Studio. This game allows users to play Tic Tac Toe against each other online in real-time. It incorporates Firebase for data storage and user authentication.
 
-To get started with Aahar, you need to register by providing the following information:
+## Features
 
-- Email: Your email address will be used for account verification and communication purposes.
-- Password: Choose a secure password to protect your account.
-- Name: Your name will be displayed to other users when you make a food donation.
-- Phone Number: A contact number is required for communication between donators and receivers.
+### Game Features
 
-## Email Verification
+- Online Multiplayer: Play Tic Tac Toe with friends or random opponents online.
+- Real-time Gameplay: Experience seamless gameplay with opponents in real time.
+- Changeable Avatar: Choose from a collection of 50 avatars to represent yourself in the game.
+- Changeable Profile Information: Modify personal details such as name, password, gender, and date of birth.
 
-After registering, you will receive an email verification link. Click on the link to verify your email address and activate your Aahar account.
+### Authentication
 
-## Donating Food
+- Firebase Authentication: Secure user authentication and authorization using Firebase Authentication services.
+- Change Password: Users can change their login password securely within the app.
 
-#### Donate Activity
+### Database
 
-In the "Donate" section of the app, you can easily pin your location on the map to indicate the availability of food donations. The following information is required when creating a food pin:
+- Firebase Realtime Database: Utilizes Firebase Realtime Database to store game state and user profile information.
 
-- Food Item Name: Specify the name of the food item you wish to donate.
-- Food Item Description: Provide a brief description or additional details about the donated food.
-- Phone Number Visibility: Choose whether or not you want to display your phone number to receivers.
+## Usage
 
-Note: Aahar does not have an in-app messaging feature. If you choose to display your phone number, it will only be visible to receivers.
+### Account Creation/Login
 
-#### Food Map Activity
+- Sign Up: New users can create an account using a valid email and password.
+- Login: Existing users can log in using their credentials.
 
-In the "Food Map" activity, User can view all available food pins. They can explore the map and click on a food pin to see details about the donation. However, the phone number of the donator will not be displayed in this activity. It is only visible in the "Receiver" activity.
+### Gameplay
 
-## Receiving Food
+- Start Game: Initiate a game with a friend or play against a random opponent.
+- Make Moves: Play the classic Tic Tac Toe game by tapping the desired cell on the grid.
+- Win Conditions: The game automatically detects wins, losses, or draws and updates the scoreboard.
 
-In the "Receiver" activity, users can find food pins near their location. By clicking on a specific food pin, they can access detailed information about the donation. Moreover, receivers have the option to navigate to the donator's residence using the Google Maps. This feature helps receivers easily collect the donated food.
+### Profile Management
 
-Once the receiver has collected the food, the donator can remove their pin from the food map.
-
-## History Activity
-
-The "History" activity in Aahar keeps track of all your past food donations. It displays a list of your previous donations, including the food item name and description. You have the ability to delete individual donation records unless you delete your profile entirely.
-
-## Additional Features
-
-Aahar provides the following additional features to enhance your experience:
-
-- Reset Password: In case you forget your password, you can reset it by following the password recovery process.
-- Change Email: If you wish to update your email address, you can do so through the app's settings.
-- Update Name and Phone Number: You have the flexibility to modify your name and phone number as needed.
-- Profile Picture: Aahar allows you to upload and set a profile picture.
+- Change Avatar: Access the profile section to change your avatar from the available options.
+- Modify Profile Information: Users can edit their name, gender, and date of birth within the app.
+- Change Password: Securely change the login password from the settings.
 
 ## Feedback and Support
 
