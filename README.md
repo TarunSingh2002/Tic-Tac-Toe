@@ -94,72 +94,40 @@ We value your feedback and suggestions for improving the Aahar app. If you encou
 <p align="center" float="left">
 <table>
   <tr>
-    <td>Register User</td>
-    <td>Login</td>   
+    <td>Game Play</td>
+    <td>Update User Details</td>   
   </tr>
   <tr>
-    <td><video src="https://github.com/TarunSingh2002/AAHAR1.0.0/assets/133011792/7d12d6f8-0a2d-4e52-bde3-f12e0ce3b10d" width="220" height="220"></video></td>
-    <td><video src="https://github.com/TarunSingh2002/AAHAR1.0.0/assets/133011792/41af74c9-9637-4109-a3b3-71c4464c4e0f" width="220" height="220"></video></td>
-  </tr>
- </table>
- <table>
-  <tr>
-    <td>Donate</td>
-    <td>Receive</td>
-  </tr>
-  <tr>
-    <td><video src="https://github.com/TarunSingh2002/AAHAR1.0.0/assets/133011792/2bab2073-b50d-44ea-bc85-15f0d581811a" width="220" height="220"></video></td>
-    <td><video src="https://github.com/TarunSingh2002/AAHAR1.0.0/assets/133011792/22e357e5-e964-435c-98d4-472c2363a043" width="220" height="220"></video></td>
+    <td><video src="" width="220" height="220"></video></td>
+    <td><video src="https://github.com/TarunSingh2002/Tic-Tac-Toe/assets/133011792/4fb702d8-7f5f-41e8-b58f-fe6fd212a6de" width="220" height="220"></video></td>
   </tr>
  </table>
  <table>
   <tr>
-    <td>Food Map</td>
-    <td>Logout</td>
+    <td>Update User Password</td>
+    <td>Delete User Profile</td>
   </tr>
   <tr>
-    <td><video src="https://github.com/TarunSingh2002/AAHAR1.0.0/assets/133011792/0e80071e-412d-4d41-997d-6dd727fd76e4" width="220" height="220"></video></td>
-    <td><video src="https://github.com/TarunSingh2002/AAHAR1.0.0/assets/133011792/74ed0450-92fe-41be-ba78-2d7ac27b359a" width="220" height="220"></video></td>
-  </tr>
- </table>
- <table>
-  <tr>
-    <td>Forget Password</td>
-    <td>Reset Password</td>
-  </tr>
-  <tr>
-    <td><video src="https://github.com/TarunSingh2002/AAHAR1.0.0/assets/133011792/121b1740-079a-4f60-b006-7ac75ec97d42" width="220" height="220"></video></td>
-    <td><video src="https://github.com/TarunSingh2002/AAHAR1.0.0/assets/133011792/6d0e9948-1adc-4089-ab4d-4ed3c4b43853" width="220" height="220"></video></td>
+    <td><video src="https://github.com/TarunSingh2002/Tic-Tac-Toe/assets/133011792/6b69d8e9-f615-4e4c-9611-9c8dcdca243b" width="220" height="220"></video></td>
+    <td><video src="https://github.com/TarunSingh2002/Tic-Tac-Toe/assets/133011792/ee2fb56d-108c-477d-b7a9-308d57e23476" width="220" height="220"></video></td>
   </tr>
  </table>
  <table>
   <tr>
-    <td>Update Email Id</td>
-    <td>Update Profile</td> 
+    <td>Singing Up</td>
+    <td>Login and Out</td>
   </tr>
   <tr>
-    <td><video src="https://github.com/TarunSingh2002/AAHAR1.0.0/assets/133011792/fd5ad10d-d9c2-4686-bbba-757d77a1a657" width="220" height="220"></video></td>
-    <td><video src="https://github.com/TarunSingh2002/AAHAR1.0.0/assets/133011792/dd949a47-0e30-4797-b9f6-2b9f8809351f" width="220" height="220"></video></td>
-  </tr>
- </table>
-  <table>
-  <tr>
-    <td>Update Profile Pic</td>
-    <td>Contact Us</td>
-  </tr>
-  <tr>
-    <td><video src="https://github.com/TarunSingh2002/AAHAR1.0.0/assets/133011792/82732278-e9ea-43ab-a8cf-ed067935270a" width="220" height="220"></video></td>
-    <td><video src="https://github.com/TarunSingh2002/AAHAR1.0.0/assets/133011792/addfc763-014f-4c13-9cdc-dc1d7ae12a2d" width="220" height="220"></video></td>
+    <td><video src="https://github.com/TarunSingh2002/Tic-Tac-Toe/assets/133011792/6aa1e9b2-ca38-4ee3-b589-18c5488440ae" width="220" height="220"></video></td>
+    <td><video src="https://github.com/TarunSingh2002/Tic-Tac-Toe/assets/133011792/f770d2bd-e335-42dd-a419-28b254e05f9d" width="220" height="220"></video></td>
   </tr>
  </table>
  <table>
   <tr>
-    <td>About Us</td>
-    <td>delete Profile</td>
+    <td>Forgot Password</td>
   </tr>
   <tr>
-    <td><video src="https://github.com/TarunSingh2002/AAHAR1.0.0/assets/133011792/230794b8-256e-40fd-827e-162784ad75a6" width="220" height="220"></video></td>
-    <td><video src="https://github.com/TarunSingh2002/AAHAR1.0.0/assets/133011792/ba0a6296-98fa-4a19-8e1d-ce601b09f1f9" width="220" height="220"></video></td>
+    <td><video src="https://github.com/TarunSingh2002/Tic-Tac-Toe/assets/133011792/c9a400b0-ca18-4d47-af66-7343e45234a8" width="220" height="220"></video></td>
   </tr>
  </table>
  </p>
