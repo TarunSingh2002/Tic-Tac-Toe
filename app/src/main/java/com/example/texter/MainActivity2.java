@@ -39,7 +39,6 @@ public class MainActivity2 extends AppCompatActivity {
         imageViewHome.setImageResource(R.drawable.home_focused);
         aLoadingDialog = new ALoadingDialog(MainActivity2.this);
         circularImageView=findViewById(R.id.imageViewAvatar);
-        final EditText editTextName=findViewById(R.id.editTextEnter);
         final AppCompatButton buttonStartGame=findViewById(R.id.buttonEnter);
         firebaseAuth=FirebaseAuth.getInstance();
         firebaseUser=firebaseAuth.getCurrentUser();
@@ -239,7 +238,7 @@ public class MainActivity2 extends AppCompatActivity {
         buttonStartGame.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
-                String name=editTextName.getText().toString();
+                String name=firebaseUser.getDisplayName().toString();
                 if(name.isEmpty())
                     Toast.makeText(MainActivity2.this, "enter name", Toast.LENGTH_SHORT).show();
                 else
