@@ -56,63 +56,35 @@ We value your feedback and suggestions for improving the Aahar app. If you encou
     <td>Dashboard Screen</td>
   </tr>
   <tr>
-    <td><img src="https://github.com/TarunSingh2002/AAHAR1.0.0/assets/133011792/ec9d3b10-ddd6-4c9e-8f8b-fdda547fc021" width="220"></td>
-    <td><img src="https://github.com/TarunSingh2002/AAHAR1.0.0/assets/133011792/ed606fde-606c-423a-a445-44da1ec684f9" width="220"></td>
-    <td><img src="https://github.com/TarunSingh2002/AAHAR1.0.0/assets/133011792/e5670d0b-730d-4e26-9d47-07f8dc756966" width="220"></td>
-    <td><img src="https://github.com/TarunSingh2002/AAHAR1.0.0/assets/133011792/a13831cd-10f4-4660-93c5-fdcdc25ba0cb" width="220"></td>
+    <td><img src="https://github.com/TarunSingh2002/Tic-Tac-Toe/assets/133011792/5fd40a78-f113-4fd7-82ef-786cff98f091" width="220"></td>
+    <td><img src="https://github.com/TarunSingh2002/Tic-Tac-Toe/assets/133011792/8670b194-7c12-4b9f-8037-21bb1927b8c9" width="220"></td>
+    <td><img src="https://github.com/TarunSingh2002/Tic-Tac-Toe/assets/133011792/06bd57ee-ef52-4da9-af19-e3c9c79d8c14" width="220"></td>
+    <td><img src="https://github.com/TarunSingh2002/Tic-Tac-Toe/assets/133011792/c9d91884-1739-4172-b5cb-6ee0eb08b3ca" width="220"></td>
   </tr>
  </table>
  <table>
   <tr>
-    <td>Donate Screen</td>
-    <td>Receive Screen</td>
-    <td>Food Map Screen</td>
-    <td>History Screen</td>
+    <td>Game Play Screen</td>
+    <td>Profile pic Screen</td>
+    <td>Update Avatar Screeen</td>
+    <td>Update Password Screen</td>
   </tr>
   <tr>
-    <td><img src="https://github.com/TarunSingh2002/AAHAR1.0.0/assets/133011792/a69d6da5-e77e-4dd7-82a7-b78455bc86f0" width="220"></td>
-    <td><img src="https://github.com/TarunSingh2002/AAHAR1.0.0/assets/133011792/172a19b4-e34b-4ea4-aea0-83946d81ba35" width="220"></td>
-    <td><img src="https://github.com/TarunSingh2002/AAHAR1.0.0/assets/133011792/747568c8-db76-4da4-a4e5-ceefea4ea710" width="220"></td>
-    <td><img src="https://github.com/TarunSingh2002/AAHAR1.0.0/assets/133011792/2522ce43-61db-47df-8424-2009683b8621" width="220"></td>
+    <td><img src="https://github.com/TarunSingh2002/Tic-Tac-Toe/assets/133011792/00526c00-baa2-48d1-b6fa-709d73723eae" width="220"></td>
+    <td><img src="https://github.com/TarunSingh2002/Tic-Tac-Toe/assets/133011792/ae5694a3-6bb5-438b-a892-8447a8f960ff" width="220"></td>
+    <td><img src="https://github.com/TarunSingh2002/Tic-Tac-Toe/assets/133011792/33b80f98-fc13-4571-8de8-73f3c095f35f" width="220"></td>
+    <td><img src="https://github.com/TarunSingh2002/Tic-Tac-Toe/assets/133011792/a5e5b54b-46f3-43eb-97b4-f1ccb64931a9" width="220"></td>
   </tr>
  </table>
- </table>
- <table>
-  <tr>
-    <td>Remove my pin Screen</td>
-    <td>User Profile Screen</td>
-    <td>Setting Screen</td>
-    <td>Update Profile Screen</td>
-  </tr>
-  <tr>
-    <td><img src="https://github.com/TarunSingh2002/AAHAR1.0.0/assets/133011792/d7f2530d-cab4-4568-a782-50e71338d788" width="220"></td>
-    <td><img src="https://github.com/TarunSingh2002/AAHAR1.0.0/assets/133011792/29ce1ad1-ea33-4d57-b8d0-ed1d5b80d8a9" width="220"></td>
-    <td><img src="https://github.com/TarunSingh2002/AAHAR1.0.0/assets/133011792/90419216-8fcf-4655-9a0d-7c61703f81ed" width="220"></td>
-    <td><img src="https://github.com/TarunSingh2002/AAHAR1.0.0/assets/133011792/1b4db721-93f6-4864-b288-568fa335dee2" width="220"></td>
-  </tr>
- </table>
- <table>
-  <tr>
-    <td>Update Email Screen</td>
-    <td>Rest Password Screen</td>
-    <td>About Us Screen</td>
-    <td>Contact Us Screen</td>
-  </tr>
-  <tr>
-    <td><img src="https://github.com/TarunSingh2002/AAHAR1.0.0/assets/133011792/e450d0a5-78f5-476b-9c73-919f335ce872" width="220"></td>
-    <td><img src="https://github.com/TarunSingh2002/AAHAR1.0.0/assets/133011792/1a271575-30a2-40c0-9ada-e282042e3be8" width="220"></td>
-    <td><img src="https://github.com/TarunSingh2002/AAHAR1.0.0/assets/133011792/5ade31b1-a73d-4d38-b20b-f22b842614c6" width="220"></td>
-    <td><img src="https://github.com/TarunSingh2002/AAHAR1.0.0/assets/133011792/b89b40a1-c3f9-445a-8924-0c471b536916" width="220"></td>
-  </tr>
  </table>
  <table>
   <tr>
     <td>Delete Profile Screen</td> 
-    <td>Profile pic Screen</td> 
+    <td>Forgot Password Screen</td> 
   </tr>
   <tr>
-    <td><img src="https://github.com/TarunSingh2002/AAHAR1.0.0/assets/133011792/6b5be399-81ef-47ff-a315-4f4701d77c68" width="220"></td>  
-     <td><img src="https://github.com/TarunSingh2002/AAHAR1.0.0/assets/133011792/fd449314-c860-46a4-8d94-20c0f433d2fb" width="220"></td>  
+    <td><img src="https://github.com/TarunSingh2002/Tic-Tac-Toe/assets/133011792/480ba7e7-747a-4859-9d74-36d21d55d634" width="220"></td>  
+     <td><img src="https://github.com/TarunSingh2002/Tic-Tac-Toe/assets/133011792/960a9783-3f6b-40f7-b90a-14e2e93319f5" width="220"></td>  
   </tr>
  </table>
  </p>
