@@ -2,6 +2,8 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:tools="http://schemas.android.com/tools">
 
+    <uses-permission android:name="android.permission.INTERNET" />
+
     <application
         android:allowBackup="true"
         android:dataExtractionRules="@xml/data_extraction_rules"
@@ -12,6 +14,18 @@
         android:supportsRtl="true"
         android:theme="@style/Base.Theme.Texter"
         tools:targetApi="31">
+        <activity
+            android:name=".ForthActivity"
+            android:exported="false" />
+        <activity
+            android:name=".ThirdActivity"
+            android:exported="false" />
+        <activity
+            android:name=".SecondActivity"
+            android:exported="false" />
+        <activity
+            android:name=".MainActivity3"
+            android:exported="false" />
         <activity
             android:name=".updatePassword"
             android:exported="false" />
@@ -27,28 +41,25 @@
         <activity
             android:name=".Sign_up_user"
             android:exported="false"
-            android:theme="@style/sign_up"/>
+            android:theme="@style/sign_up" />
         <activity
             android:name=".profile"
             android:exported="false"
-            android:theme="@style/sign_up"/>
+            android:theme="@style/sign_up" />
         <activity
             android:name=".MainActivity2"
             android:exported="false" />
         <activity
             android:name=".login"
             android:exported="false"
-            android:theme="@style/sign_up"/>
+            android:theme="@style/sign_up" />
         <activity
             android:name=".forgot_password"
             android:exported="false" />
         <activity
             android:name=".deleteProfile"
             android:exported="false"
-            android:theme="@style/sign_up"/>
-        <activity
-            android:name=".MainActivity"
-            android:exported="false"/>
+            android:theme="@style/sign_up" />
     </application>
 
 </manifest>

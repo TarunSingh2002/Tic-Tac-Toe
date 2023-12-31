@@ -29,7 +29,7 @@ public class splashScreen extends AppCompatActivity {
 
             @Override
             public void onAnimationEnd(@NonNull Animator animator) {
-                Intent intent = new Intent(splashScreen.this, MainActivity.class);
+                Intent intent = new Intent(splashScreen.this, SecondActivity.class);
                 intent.setFlags(Intent.FLAG_ACTIVITY_CLEAR_TOP | Intent.FLAG_ACTIVITY_SINGLE_TOP);
                 startActivity(intent);
                 finish();
