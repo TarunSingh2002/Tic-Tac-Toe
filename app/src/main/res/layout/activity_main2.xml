@@ -53,7 +53,8 @@
                         android:layout_width="50dp"
                         android:layout_height="50dp"
                         android:layout_gravity="center"
-
+                        android:scaleType="centerCrop"
+                        android:background="@drawable/circular_background"
                         android:id="@+id/imageViewAvatar"/>
                 </LinearLayout>
             </LinearLayout>
