@@ -5,6 +5,7 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
+    android:theme="@style/mainActivity3"
     tools:context=".MainActivity3">
     <LinearLayout
         android:layout_above="@+id/gameContainer"
@@ -70,7 +71,7 @@
         android:layout_marginStart="10dp"
         android:layout_marginEnd="10dp"
         android:layout_marginBottom="50dp"
-        android:background="@drawable/round_back_dark_blue_purpel"
+        android:background="#0C1017"
         android:id="@+id/gameContainer">
         <LinearLayout
             android:layout_width="match_parent"
@@ -86,7 +87,7 @@
                 android:layout_marginEnd="5dp"
                 android:layout_weight="1"
                 android:adjustViewBounds="true"
-                android:background="@drawable/round_back_dark_blue_20"
+                android:background="@drawable/transparent"
                 android:padding="20dp"
                 />
             <ImageView
@@ -98,7 +99,7 @@
                 android:layout_marginEnd="5dp"
                 android:layout_weight="1"
                 android:adjustViewBounds="true"
-                android:background="@drawable/round_back_dark_blue_20"
+                android:background="@drawable/transparent"
                 android:padding="20dp"
                 />
             <ImageView
@@ -110,7 +111,7 @@
                 android:layout_marginEnd="10dp"
                 android:layout_weight="1"
                 android:adjustViewBounds="true"
-                android:background="@drawable/round_back_dark_blue_20"
+                android:background="@drawable/transparent"
                 android:padding="20dp"
                 />
         </LinearLayout>
@@ -128,7 +129,7 @@
                 android:layout_marginEnd="5dp"
                 android:layout_weight="1"
                 android:adjustViewBounds="true"
-                android:background="@drawable/round_back_dark_blue_20"
+                android:background="@drawable/transparent"
                 android:padding="20dp"
                 />
             <ImageView
@@ -140,7 +141,7 @@
                 android:layout_marginEnd="5dp"
                 android:layout_weight="1"
                 android:adjustViewBounds="true"
-                android:background="@drawable/round_back_dark_blue_20"
+                android:background="@drawable/transparent"
                 android:padding="20dp"
                 />
             <ImageView
@@ -152,7 +153,7 @@
                 android:layout_marginEnd="10dp"
                 android:layout_weight="1"
                 android:adjustViewBounds="true"
-                android:background="@drawable/round_back_dark_blue_20"
+                android:background="@drawable/transparent"
                 android:padding="20dp"
                 />
         </LinearLayout>
@@ -171,7 +172,7 @@
                 android:layout_marginEnd="5dp"
                 android:layout_weight="1"
                 android:adjustViewBounds="true"
-                android:background="@drawable/round_back_dark_blue_20"
+                android:background="@drawable/transparent"
                 android:padding="20dp"
                 />
             <ImageView
@@ -183,7 +184,7 @@
                 android:layout_marginEnd="5dp"
                 android:layout_weight="1"
                 android:adjustViewBounds="true"
-                android:background="@drawable/round_back_dark_blue_20"
+                android:background="@drawable/transparent"
                 android:padding="20dp"
                 />
             <ImageView
@@ -195,7 +196,7 @@
                 android:layout_marginEnd="10dp"
                 android:layout_weight="1"
                 android:adjustViewBounds="true"
-                android:background="@drawable/round_back_dark_blue_20"
+                android:background="@drawable/transparent"
                 android:padding="20dp"
                 />
         </LinearLayout>

@@ -3,6 +3,7 @@
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
     <color name="backgroundColor">#212832</color>
+    <color name="backgroundForBord">#0C1017</color>
     <color name="golden">#FED36A</color>
     <color name="liteBlue">#455A64</color>
     <color name="unFocusedBlue">#617D8A</color>

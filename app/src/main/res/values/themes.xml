@@ -41,4 +41,12 @@
     <style name="PositiveButtonStyle" parent="Widget.MaterialComponents.Button.TextButton.Dialog">
         <item name="android:textColor">#FED36A</item>
     </style>
+    <style name="mainActivity3" parent="Theme.Material3.DayNight.NoActionBar">
+        <item name="colorPrimary">@color/backgroundForBord</item>
+        <item name="android:statusBarColor">@color/backgroundForBord</item>
+        <item name="android:windowBackground">@color/backgroundForBord</item>
+        <item name="android:windowAnimationStyle">@style/CustomActivityAnimation</item>
+        <item name="colorAccent">@color/white</item>
+        <item name="android:textColorPrimary">@color/white</item>
+    </style>
 </resources>
