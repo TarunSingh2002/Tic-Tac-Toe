@@ -4,47 +4,6 @@
 
 Welcome to the Tic Tac Toe Multiplayer game built for Android devices using Java, XML, Firebase, and Android Studio. This game allows users to play Tic Tac Toe against each other online in real-time. It incorporates Firebase for data storage and user authentication.
 
-## Features
-
-### Game Features
-
-- Online Multiplayer: Play Tic Tac Toe with friends or random opponents online.
-- Real-time Gameplay: Experience seamless gameplay with opponents in real time.
-- Changeable Avatar: Choose from a collection of 50 avatars to represent yourself in the game.
-- Changeable Profile Information: Modify personal details such as name, password, gender, and date of birth.
-
-### Authentication
-
-- Firebase Authentication: Secure user authentication and authorization using Firebase Authentication services.
-- Change Password: Users can change their login password securely within the app.
-
-### Database
-
-- Firebase Realtime Database: Utilizes Firebase Realtime Database to store game state and user profile information.
-
-## Usage
-
-### Account Creation/Login
-
-- Sign Up: New users can create an account using a valid email and password.
-- Login: Existing users can log in using their credentials.
-
-### Gameplay
-
-- Start Game: Initiate a game with a friend or play against a random opponent.
-- Make Moves: Play the classic Tic Tac Toe game by tapping the desired cell on the grid.
-- Win Conditions: The game automatically detects wins, losses, or draws and updates the scoreboard.
-
-### Profile Management
-
-- Change Avatar: Access the profile section to change your avatar from the available options.
-- Modify Profile Information: Users can edit their name, gender, and date of birth within the app.
-- Change Password: Securely change the login password from the settings.
-
-## Feedback and Support
-
-We value your feedback and suggestions for improving the Aahar app. If you encounter any issues or have any queries, please contact our support team at [tarun.utkarsh125@gmail.com]. We are committed to providing the best possible experience and supporting you in making a positive impact through food donation.
-
 ## Screenshots
 
 <p align="center" float="left">
@@ -131,6 +90,47 @@ We value your feedback and suggestions for improving the Aahar app. If you encou
   </tr>
  </table>
  </p>
+
+## Features
+
+### Game Features
+
+- Online Multiplayer: Play Tic Tac Toe with friends or random opponents online.
+- Real-time Gameplay: Experience seamless gameplay with opponents in real time.
+- Changeable Avatar: Choose from a collection of 50 avatars to represent yourself in the game.
+- Changeable Profile Information: Modify personal details such as name, password, gender, and date of birth.
+
+### Authentication
+
+- Firebase Authentication: Secure user authentication and authorization using Firebase Authentication services.
+- Change Password: Users can change their login password securely within the app.
+
+### Database
+
+- Firebase Realtime Database: Utilizes Firebase Realtime Database to store game state and user profile information.
+
+## Usage
+
+### Account Creation/Login
+
+- Sign Up: New users can create an account using a valid email and password.
+- Login: Existing users can log in using their credentials.
+
+### Gameplay
+
+- Start Game: Initiate a game with a friend or play against a random opponent.
+- Make Moves: Play the classic Tic Tac Toe game by tapping the desired cell on the grid.
+- Win Conditions: The game automatically detects wins, losses, or draws and updates the scoreboard.
+
+### Profile Management
+
+- Change Avatar: Access the profile section to change your avatar from the available options.
+- Modify Profile Information: Users can edit their name, gender, and date of birth within the app.
+- Change Password: Securely change the login password from the settings.
+
+## Feedback and Support
+
+We value your feedback and suggestions for improving the Aahar app. If you encounter any issues or have any queries, please contact our support team at [tarun.utkarsh125@gmail.com]. We are committed to providing the best possible experience and supporting you in making a positive impact through food donation.
 
 
 
